@@ -1,5 +1,5 @@
 
-This will perform the secure and unsecure aggregation processes, output the average execution times, and save the results in an output file.
+This will perform the secure and unsecure aggregation processes, output the average execution times, and visually show the results.
 
 ## Contributing
 
