@@ -1,4 +1,4 @@
-# Federated Learning Project
+# Cryptography Project
 
 This repository contains the Jupyter Notebook for a project focusing on privacy-preserving model aggregation in federated learning using Crypten.
 
@@ -18,7 +18,7 @@ To run this project, you will need Python and the necessary Python packages inst
 
 ### Installation
 
-First, clone the repository to your local machine
+First, clone the repository to your local machine.
 
 ## Running the code
 
@@ -30,12 +30,11 @@ Run the cells in the notebook to execute the experiments.
 
 The notebook is structured as follows:
 
-- **Introduction**: Overview of the project and its objectives.
-- **Setup**: Preparation and configuration necessary for the experiments.
 - **Model Definition**: Defines the neural network model used in the simulations.
 - **Data Simulation**: Describes how the dummy data is generated.
 - **Experiment Execution**: Code to run the secure and unsecure aggregation experiments.
 - **Results Analysis**: Visualization and interpretation of the results.
+
 
 ## Contributing
 
