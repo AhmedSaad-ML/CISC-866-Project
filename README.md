@@ -1,12 +1,24 @@
-This will perform the secure and unsecure aggregation processes, output the average execution times, and visually show the results.
+# Federated Learning Project
 
-## Contributing
+This repository contains the Jupyter Notebook for a project focusing on privacy-preserving model aggregation in federated learning using Crypten.
 
-We welcome contributions to this project. Please fork the repository and submit a pull request with your proposed changes.
+## Project Description
 
-## License
+This project explores secure and unsecure aggregation methods within federated learning. Using Crypten for encryption, we analyze the impact on data size and execution time. The experiments are conducted using a simple neural network model and simulated data to illustrate the effectiveness of privacy-preserving techniques.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Getting Started
+
+To run this project, you will need Python and the necessary Python packages installed, as well as Jupyter Notebook or JupyterLab.
+
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Necessary Python packages: torch, crypten, numpy, matplotlib
+
+### Installation
+
+First, clone the repository to your local machine
 
 ## Running the code
 
@@ -24,6 +36,10 @@ The notebook is structured as follows:
 - **Data Simulation**: Describes how the dummy data is generated.
 - **Experiment Execution**: Code to run the secure and unsecure aggregation experiments.
 - **Results Analysis**: Visualization and interpretation of the results.
+
+## Contributing
+
+We welcome contributions to this project. Please fork the repository and submit a pull request with your proposed changes.
 
 ## License
 
